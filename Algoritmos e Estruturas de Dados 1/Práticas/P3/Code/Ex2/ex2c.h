@@ -1,0 +1,1 @@
+void soma1 (int *x);
